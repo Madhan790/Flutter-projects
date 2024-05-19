@@ -1,16 +1,48 @@
-# ocr_text_scanner
+# OCR Text Scanner App
 
-A new Flutter project.
+Welcome to the **OCR Text Scanner App**! This application allows you to extract text from images and edit the extracted text with ease. It's a perfect tool for converting printed or handwritten text into digital format.
+
+## Features
+
+- **Extract Text from Images**: Use advanced OCR technology to extract text from images with high accuracy.
+- **Edit Extracted Text**: Easily edit the extracted text directly within the app.
+- **User-Friendly Interface**: Simple and intuitive interface that makes the app easy to use for everyone.
+
+## Screenshots
+
+Here are some screenshots of the OCR Text Scanner App in action:
+
+![Home Screen](path/to/home_screen.png)
+*Home Screen*
+
+![Text Extraction](path/to/text_extraction.png)
+*Text Extraction in Progress*
+
+![Edit Text](path/to/edit_text.png)
+*Editing Extracted Text*
+
+## How to Use
+
+1. **Install the App**: Download and install the app from the [Google Play Store](https://play.google.com/store) or [Apple App Store](https://www.apple.com/app-store/).
+2. **Open the App**: Launch the OCR Text Scanner App on your device.
+3. **Select an Image**: Use the camera to take a new picture or choose an existing image from your gallery.
+4. **Extract Text**: Tap the "Extract Text" button to process the image and extract text.
+5. **Edit Text**: Edit the extracted text if necessary using the built-in text editor.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with developing the OCR Text Scanner App locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/flutter-projects.git
+   cd flutter-projects/ocr_text_scanner
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Install Dependencies:**:
+    flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Run the App**:
+    flutter run
+
+
+   
