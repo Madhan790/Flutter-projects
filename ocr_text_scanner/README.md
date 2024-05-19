@@ -34,8 +34,7 @@ Here are some screenshots of the OCR Text Scanner App in action:
 To get started with developing the OCR Text Scanner App locally, follow these steps:
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/flutter-projects.git
+   git clone https://github.com/Madhan790/Flutter-projects/tree/main/ocr_text_scanner
    cd flutter-projects/ocr_text_scanner
 
 2. **Install Dependencies:**:
