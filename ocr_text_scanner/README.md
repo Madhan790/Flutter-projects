@@ -12,7 +12,7 @@ Welcome to the **OCR Text Scanner App**! This application allows you to extract 
 
 Here are some screenshots of the OCR Text Scanner App in action:
 
-![Home Screen](path/to/home_screen.png)
+![Home Screen](ocr_text_scanner/Screenshots/Hotpot 0.png)
 *Home Screen*
 
 ![Text Extraction](path/to/text_extraction.png)
