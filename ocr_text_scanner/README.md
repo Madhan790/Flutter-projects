@@ -15,7 +15,7 @@ Here are some screenshots of the OCR Text Scanner App in action:
 ![Home Screen](ocr_text_scanner/Screenshots/Hotpot 0.png)
 *Home Screen*
 
-![Text Extraction](path/to/text_extraction.png)
+![Text Extraction](ocr_text_scanner/Screenshots/Hotpot 0.png)
 *Text Extraction in Progress*
 
 ![Edit Text](path/to/edit_text.png)
