@@ -28,5 +28,5 @@ Here are some screenshots of the Todo App in action:
 To get started with developing the Todo App locally, follow these steps:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone (https://github.com/Madhan790/Flutter-projects.git)
    cd todo-app
